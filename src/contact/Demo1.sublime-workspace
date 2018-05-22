@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"hei",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/mutya/Desktop/Demo1/src/posts/models.py",
+			"settings":
+			{
+				"buffer_size": 450,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/mutya/Desktop/Demo1/src/posts/admin.py",
+			"settings":
+			{
+				"buffer_size": 476,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "#from django import httpResponse\nfrom django.shortcuts import render\n\n# Create your views here.\ndef post_home(request):\n\treturn httpResponse \n",
+			"file": "/C/Users/mutya/Desktop/Demo1/src/posts/views.py",
+			"file_size": 169,
+			"file_write_time": 131420325432608195,
+			"settings":
+			{
+				"buffer_size": 142,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/mutya/Desktop/Demo1/src/Demo1/urls.py",
+			"settings":
+			{
+				"buffer_size": 811,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "VI",
+		"selected_items":
+		[
+			[
+				"VI",
+				"View: Toggle Tabs"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/C/Users/mutya/Desktop/Demo1/src/Demo1/settings.py",
+		"/C/Users/mutya/Desktop/Demo1/src/manage.py",
+		"/C/Users/mutya/Desktop/Test2/src/checkout/views.py",
+		"/C/Users/mutya/Desktop/landing page/index.html",
+		"/C/Users/mutya/Desktop/Test2/src/checkout/models.py",
+		"/C/Users/mutya/Desktop/Test2/src/profiles/templates/index.html",
+		"/C/localhost/html/transparent-menu/index.html",
+		"/C/localhost/html/transparent-menu/style.css",
+		"/C/Users/mutya/Desktop/Test2/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/C/Users/mutya/Desktop/Test2/src/profiles/templates/base.html",
+		"/C/Users/mutya/Desktop/Test2/src/profiles/templates/home.html",
+		"/C/Users/mutya/Desktop/Test2/src/profiles/templates/navbar.html",
+		"/C/Users/mutya/Desktop/Test2/src/static_in_pro/our_static/css/style.css",
+		"/C/Users/mutya/Desktop/Test2/src/profiles/templates/navba.html",
+		"/C/Users/mutya/Desktop/Test2/static_in_env/static_root/css/navbar-static-top.css",
+		"/C/Users/mutya/Desktop/Test2/static_in_env/static_root/css/style.css",
+		"/C/Users/mutya/Desktop/Test2/static_in_env/static_root/img/in-progress.gif"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"views"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/mutya/Desktop/Demo1/src/posts/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/mutya/Desktop/Demo1/src/posts/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/mutya/Desktop/Demo1/src/posts/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/mutya/Desktop/Demo1/src/Demo1/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								811,
+								811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Demo1.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src\\checkout\\models.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,14 @@
+body {
+  min-height: 3000px;
+
+}
+
+.navbar-static-top {
+  margin-bottom: 29px;
+}
+
+ul{
+	margin: 0px; 
+	padding: 0px;
+	list-style: none;
+}
